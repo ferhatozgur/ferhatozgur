@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ferhat-%c3%b6zg%c3%bcr-kili%c3%a7-70946a268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ferhat-%c3%b6zg%c3%bcr-kili%c3%a7-70946a268/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ferhat-%c3%b6zg%c3%bcr-kili%c3%a7-70946a268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ferhat-%c3%b6zg%c3%bcr-kili%c3%a7-70946a268/" height="30" width="40" /></a>
 <a href="https://instagram.com/ferhatozgur.aspx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferhatozgur.aspx" height="30" width="40" /></a>
 </p>
 
