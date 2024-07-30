@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ferhat Özgür</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Brain Cancer Detection**
-
-- 🌱 I’m currently learning **Python,Deep Learning,ERP Systems**
-
 - 📫 How to reach me **ferhatozgurklc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
